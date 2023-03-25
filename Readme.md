@@ -12,9 +12,9 @@
 - License
 
 ## Machine Learning Canvas
-Para conceituar o problema iremos utilizar uma variação do [Machine Learning Canvas](http://machinelearningcanvas.com/). Esta variação seguirá o modelo abaixo:
+Para conceituar o problema iremos utilizar uma modificação do [Machine Learning Canvas](http://machinelearningcanvas.com/). Esta variação seguirá o modelo abaixo:
 
-...
+<img src="./main/media/machine_learning_canvas.png" alt="canvas"/> 
 
 ## Tecnologias
 
