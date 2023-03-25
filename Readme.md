@@ -75,13 +75,36 @@ deactivate
 ```
 
 ## Organização do projeto
-...
+```sh
+.
+├── License
+├── Readme.md
+├── main
+│   ├── datasets
+│   │   └── raw.csv
+│   ├── media
+│   │   └── data_analytics.png
+│   └── notebooks
+│       └── Desafio_Ciencia_de_Dados_Gerdau.ipynb
+└── utils
+    ├── environment.yml
+    └── requirements.txt
+```
 
 ## Commits
-...
+Neste projeto foi adotado o uso de Commits Semânticos para padronização:
+
+- Feat: Nova feature do projeto
+- Refactor: Refatoração de alguma parte do código
+- Fix: Correção de erros que estão causando bugs
+- Chore: Mudanças que não influenciam o sistema nem arquivos de testes
+- Style: Mudanças de formatação ou estilos de códigos que não influenciam na lógica do sistema
+- Test: Criação ou alteração de algum código de teste
+- Perf: Alterações feitas para melhorar a performance do projeto
+- Docs: Alterações na documentação do projeto
 
 ## Contribuições
 ...
 
 ## License
-...
+MIT.
