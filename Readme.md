@@ -32,7 +32,6 @@ Guiaremos você ao longo do problema, e sua senioridade, de acordo com nossos pa
 
 A produção de uma empresa de aço envolve a fabricação de vários tipos de componentes, incluindo bobinas e placas. As informações sobre o consumo de energia são registradas em um sistema de armazenamento em nuvem. O monitoramento do consumo energético desta indústria está disponível nos dados fornecidos. Desta forma, **gostariamos que você prevea o consumo elétrico em uma perspectiva mensal**.
 
-
 ## Conteúdo
 - Machine Learning Canvas
 - Tecnologias
@@ -55,6 +54,8 @@ Para conceituar o problema iremos utilizar uma modificação do [Machine Learnin
 - Jupyter
 - Numpy
 - Pandas
+- Matplotlib
+- Seaborn
 - Scikit-learn
 
 ## Base de dados
