@@ -18,7 +18,23 @@
 ...
 
 ## Base de dados
-...
+Neste projeto iremos analisar um dataset em formato de csv disponibilizado pelo time de Data & Analytics. Seus metadados estão dispostos da seguinte maneira:
+
+
+Temos acesso aos dados de consumo elétrico da empresa, referentes a um período de 1 ano, sendo que a medição é realizada em intervalos de 15 minutos.
+| Nome          | Description.                                         | Tipo Variável | 
+|---------------|------------------------------------------------------|---------------|
+| Data          | Data de registro do consumo                          | Continua      |
+| Energia_usada | Consumo de energia da empresa [kWh]                  | Continua      |
+| V1            | Corrente atrasada [kVarh]                            | Continua      |
+| V2            | Corrente principal [kVarh]                           | Continua      |
+| V3            | Medições de C02 [ppm]                                | Continua      |
+| V4            | Fator de potência atual atrasado                     | Continua      |
+| V5            | Fator de potência atual principal                    | Continua      |
+| V6            | Número de segundos a partir da meia-noite [S]        | Continua      |
+| V7            | Estado da semana (Final de semana ou dia da semana)  | Categorica    |
+| V8            | Dia da semana (Terça-feira, Sábado, etc)             | Categorica    |
+| V9            | Tipo de carga (Carga leve, Carga média, Carga máxima) | Categorica    | 
 
 ## Instalação
 Foi utilizado o [Python](https://www.python.org/) v3.11.
