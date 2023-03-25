@@ -1,5 +1,37 @@
 # Data4All - Business Case
-...
+- Instituição: Let's Code
+- Curso: Data4All
+- Projeto: Business Case
+- Empresa(s): Gerdau & Randstad
+
+#### **Introdução**
+
+O time de Data Science da Gerdau usa Inteligência Artificial e Advanced Analytics para resolver problemas diversos dentro da nossa empresa. Nesse desafio você terá contato com algumas das tarefas diárias de um Cientista de Dados do time e como ele avaliaremos, como suas competências estão conectadas com nossos pilares técnicos e do negócio.
+
+Guiaremos você ao longo do problema, e sua senioridade, de acordo com nossos padrões e pilares, será definida pela maneira como você resolverá cada item.
+
+#### **O que você deve levar em consideração**
+
+* Descrever a abordagem utilizada na resolução do desafio
+* Trechos de códigos deverão ter comentários essenciais
+* O desafio deverá ser feito com a linguagem de programação Python + bibliotecas que você achar necessário
+* Soluções utilizando Excel, R e outras linguagens serão desconsideradas
+* Recomendamos utilizar Jupyter Lab ou Notebook. 
+
+#### **Prazo de entrega**
+
+* De acordo conforme combinado com o time de Data & Analytics
+
+#### **Desclassificação Automática**
+
+* Entregar fora do prazo
+* Compartilhar sua solução com outras pessoas
+* Compartilhar sua solução em repositórios públicos. Exemplo: GitHub
+
+#### **Objetivo**
+
+A produção de uma empresa de aço envolve a fabricação de vários tipos de componentes, incluindo bobinas e placas. As informações sobre o consumo de energia são registradas em um sistema de armazenamento em nuvem. O monitoramento do consumo energético desta indústria está disponível nos dados fornecidos. Desta forma, **gostariamos que você prevea o consumo elétrico em uma perspectiva mensal**.
+
 
 ## Conteúdo
 - Machine Learning Canvas
