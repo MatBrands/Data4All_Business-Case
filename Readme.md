@@ -12,14 +12,21 @@
 - License
 
 ## Machine Learning Canvas
+Para conceituar o problema iremos utilizar uma variação do [Machine Learning Canvas](http://machinelearningcanvas.com/). Esta variação seguirá o modelo abaixo:
+
 ...
 
 ## Tecnologias
-...
+
+- Conda
+- Python
+- Jupyter
+- Numpy
+- Pandas
+- Scikit-learn
 
 ## Base de dados
 Neste projeto iremos analisar um dataset em formato de csv disponibilizado pelo time de Data & Analytics. Seus metadados estão dispostos da seguinte maneira:
-
 
 Temos acesso aos dados de consumo elétrico da empresa, referentes a um período de 1 ano, sendo que a medição é realizada em intervalos de 15 minutos.
 | Nome          | Description.                                         | Tipo Variável | 
