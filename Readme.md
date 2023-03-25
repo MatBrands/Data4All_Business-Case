@@ -24,7 +24,7 @@
 Foi utilizado o [Python](https://www.python.org/) v3.11.
 
 ### Conda
-No desenvolvimento foi utilizado o gerenciador de pacotes e ambientes Conda. Portanto para prosseguir necessita-se de sua instalação.
+No desenvolvimento foi utilizado o gerenciador de pacotes e ambientes [Conda](https://docs.conda.io/en/latest/). Portanto para prosseguir necessita-se de sua instalação.
 
 Navegar até a pasta de destino
 ```sh
