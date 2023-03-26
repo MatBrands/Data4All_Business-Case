@@ -137,11 +137,13 @@ deactivate
 ├── Readme.md
 ├── main
 │   ├── datasets
-│   │   └── raw.csv
+│   │   ├── raw.csv
+│   │   └── processed.pkl
 │   ├── media
 │   │   └── data_analytics.png
 │   └── notebooks
-│       └── Desafio_Ciencia_de_Dados_Gerdau.ipynb
+│       ├── Desafio_Ciencia_de_Dados_Gerdau.ipynb
+│       └── tratative.ipynb
 └── utils
     ├── environment.yml
     └── requirements.txt
