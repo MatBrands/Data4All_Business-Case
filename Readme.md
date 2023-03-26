@@ -45,7 +45,7 @@ A produção de uma empresa de aço envolve a fabricação de vários tipos de c
 ## Machine Learning Canvas
 Para conceituar o problema iremos utilizar uma modificação do [Machine Learning Canvas](http://machinelearningcanvas.com/). Esta variação seguirá o modelo abaixo:
 
-<img src="./main/media/machine_learning_canvas.png" alt="canvas"/> 
+<img src="./utils/machine_learning_canvas.png" alt="canvas"/> 
 
 ## Tecnologias
 
