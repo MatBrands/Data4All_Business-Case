@@ -59,7 +59,7 @@ Para conceituar o problema iremos utilizar uma modificação do [Machine Learnin
 - Scikit-learn
 
 ## Base de dados
-Neste projeto iremos analisar um dataset em formato de csv disponibilizado pelo time de Data & Analytics. Seus metadados estão dispostos da seguinte maneira:
+Neste projeto iremos analisar um dataset em formato de csv disponibilizado pelo time de Data & Analytics da Gerdau. Seus metadados estão dispostos da seguinte maneira:
 
 Temos acesso aos dados de consumo elétrico da empresa, referentes a um período de 1 ano, sendo que a medição é realizada em intervalos de 15 minutos.
 | Nome          | Description.                                         | Tipo Variável | 
