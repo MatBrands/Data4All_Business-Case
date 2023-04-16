@@ -146,7 +146,9 @@ deactivate
 │       ├── eda.ipynb
 │       └── tratative.ipynb
 └── utils
+    ├── Business Case.pdf
     ├── environment.yml
+    ├── machine_learning_canvas.png
     └── requirements.txt
 ```
 
