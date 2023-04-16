@@ -143,6 +143,7 @@ deactivate
 │   │   └── data_analytics.png
 │   └── notebooks
 │       ├── Desafio_Ciencia_de_Dados_Gerdau.ipynb
+│       ├── eda.ipynb
 │       └── tratative.ipynb
 └── utils
     ├── environment.yml
