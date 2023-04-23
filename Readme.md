@@ -94,7 +94,7 @@ conda env create -f environment.yml
 
 Ativar
 ```sh
-conda activate data4all_venv
+conda activate data4all_case_venv
 ```
 
 Desativar
@@ -107,12 +107,12 @@ Pode-se utilizar o arquivo requirements.txt para criar o ambiente virtual.
 
 Criar ambiente virtual
 ```sh
-python -m venv data4all_venv
+python -m venv data4all_case_venv
 ```
 
 Ativar
 ```sh
-source ./data4all_venv/bin/activate
+source ./data4all_case_venv/bin/activate
 ```
 
 Navegar até a pasta de destino

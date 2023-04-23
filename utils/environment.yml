@@ -1,4 +1,4 @@
-name: data4all_venv
+name: data4all_case_venv
 channels:
   - conda-forge
 dependencies:
