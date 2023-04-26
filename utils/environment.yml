@@ -8,7 +8,6 @@ dependencies:
   - pandas
   - matplotlib
   - seaborn
-  - rise
   - scikit-learn
   - scikit-learn-intelex
   - ipykernel
