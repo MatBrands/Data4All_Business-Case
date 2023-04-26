@@ -9,5 +9,6 @@ dependencies:
   - matplotlib
   - seaborn
   - scikit-learn
-  - scikit-learn-intelex
+  - tensorflow
+  - keras
   - ipykernel
