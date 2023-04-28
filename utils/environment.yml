@@ -1,14 +1,21 @@
 name: data4all_case_venv
 channels:
+  - nvidia
   - conda-forge
+  - defaults
 dependencies:
   - python
   - pip
+  - cudatoolkit
+  - cudnn
+  - cupti
+  - cuda-nvcc
+  - pip:
+    - tensorflow
   - numpy
   - pandas
   - matplotlib
   - seaborn
   - scikit-learn
-  - tensorflow
   - keras
   - ipykernel
