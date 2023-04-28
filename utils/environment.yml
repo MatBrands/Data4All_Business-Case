@@ -19,3 +19,6 @@ dependencies:
   - scikit-learn
   - keras
   - ipykernel
+variables:
+  TF_CPP_MIN_LOG_LEVEL: 3
+  LD_LIBRARY_PATH: /home/matheusmbr/.conda/envs/data4all_case_venv/lib
