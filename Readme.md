@@ -1,8 +1,11 @@
 # Data4All - Business Case
+
 - Instituição: Let's Code
 - Curso: Data4All
 - Projeto: Business Case
 - Empresa(s): Gerdau & Randstad
+
+<img src="./main/media/data_analytics.png" alt="drawing" width="200"/> 
 
 #### **Introdução**
 
@@ -47,16 +50,20 @@ Para conceituar o problema iremos utilizar uma modificação do [Machine Learnin
 
 <img src="./utils/machine_learning_canvas.png" alt="canvas"/> 
 
+O machine learning canvas construído ao longo do projeto pode ser encontrado [aqui](https://github.com/MatBrands/Data4All_Business-Case/blob/master/utils/Machine%20Learning%20Canvas.pdf).
+
 ## Tecnologias
 
-- Conda
 - Python
+- Conda
 - Jupyter
 - Numpy
 - Pandas
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- Tensorflow
+- Keras
 
 ## Base de dados
 Neste projeto iremos analisar um dataset em formato de csv disponibilizado pelo time de Data & Analytics da Gerdau. Seus metadados estão dispostos da seguinte maneira:
@@ -77,7 +84,7 @@ Temos acesso aos dados de consumo elétrico da empresa, referentes a um período
 | V9            | Tipo de carga (Carga leve, Carga média, Carga máxima) | Categorica    | 
 
 ## Instalação
-Foi utilizado o [Python](https://www.python.org/) v3.11.
+Foi utilizado o [Python](https://www.python.org/) v3.11.3.
 
 ### Conda
 No desenvolvimento foi utilizado o gerenciador de pacotes e ambientes [Conda](https://docs.conda.io/en/latest/). Portanto para prosseguir necessita-se de sua instalação.
@@ -141,14 +148,25 @@ deactivate
 │   │   └── processed.pkl
 │   ├── media
 │   │   └── data_analytics.png
-│   └── notebooks
-│       ├── Desafio_Ciencia_de_Dados_Gerdau.ipynb
-│       ├── eda.ipynb
-│       └── tratative.ipynb
+│   ├── notebooks
+│   │   ├── Desafio_Ciencia_de_Dados_Gerdau.ipynb
+│   │   ├── eda.ipynb
+│   │   ├── model.ipynb
+│   │   └── tratative.ipynb
+│   └── outputs
+│       ├── KFold_MAE_0.png
+│       ├── KFold_MAE_1.png
+│       ├── KFold_R2_0.png
+│       ├── KFold_R2_1.png
+│       ├── Learning_Curve_0.png
+│       ├── Learning_Curve_1.png
+│       ├── Scores_0.png
+│       └── Scores_1.png
 └── utils
     ├── Business Case.pdf
-    ├── environment.yml
+    ├── Machine Learning Canvas.pdf
     ├── machine_learning_canvas.png
+    ├── environment.yml
     └── requirements.txt
 ```
 
