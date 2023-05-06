@@ -5,6 +5,8 @@
 - Projeto: Business Case
 - Empresa(s): Gerdau & Randstad
 
+O escopo do Notebook Base pode ser encontrado aqui: [Desafio Ciencia de Dados Gerdau.ipynb](./main/notebooks/Desafio_Ciencia_de_Dados_Gerdau.ipynb)
+
 <img src="./main/media/data_analytics.png" alt="drawing" width="200"/> 
 
 #### **Introdução**
@@ -50,7 +52,7 @@ Para conceituar o problema iremos utilizar uma modificação do [Machine Learnin
 
 <img src="./utils/machine_learning_canvas.png" alt="canvas"/> 
 
-O machine learning canvas construído ao longo do projeto pode ser encontrado [aqui](https://github.com/MatBrands/Data4All_Business-Case/blob/master/utils/Machine%20Learning%20Canvas.pdf).
+O machine learning canvas construído ao longo do projeto pode ser encontrado [aqui](./utils/machine_learning_canvas.png)
 
 ## Tecnologias
 
