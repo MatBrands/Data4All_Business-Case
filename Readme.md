@@ -42,7 +42,7 @@ A produção de uma empresa de aço envolve a fabricação de vários tipos de c
 - Instalação
 - Organização do projeto
 - Commits
-- Contribuições
+- Conclusão
 - License
 
 ## Machine Learning Canvas
@@ -166,6 +166,9 @@ deactivate
     ├── Business Case.pdf
     ├── Machine Learning Canvas.pdf
     ├── machine_learning_canvas.png
+    ├── Tratamento dos Dados.pdf
+    ├── Análise Exploratória de Dados.pdf
+    ├── Modelagem de ML.pdf
     ├── environment.yml
     └── requirements.txt
 ```
@@ -182,8 +185,12 @@ Neste projeto foi adotado o uso de Commits Semânticos para padronização:
 - Perf: Alterações feitas para melhorar a performance do projeto
 - Docs: Alterações na documentação do projeto
 
-## Contribuições
-...
+## Conclusão
+O projeto foi dividido em algumas etapas, sendo elas:
+- [Machine Learning Canvas](./utils/Machine%20Learning%20Canvas.pdf)
+- [Tratamento dos Dados](./utils/Tratamento%20dos%20Dados.pdf)
+- [Análise Exploratória de Dados](./utils/Análise%20Exploratória%20de%20Dados.pdf)
+- [Modelagem de ML](./utils/Modelagem%20de%20ML.pdf)
 
 ## License
 MIT.
