@@ -52,7 +52,7 @@ Para conceituar o problema iremos utilizar uma modificação do [Machine Learnin
 
 <img src="./utils/machine_learning_canvas.png" alt="canvas"/> 
 
-O machine learning canvas construído ao longo do projeto pode ser encontrado [aqui](./utils/machine_learning_canvas.png)
+O machine learning canvas construído ao longo do projeto pode ser encontrado [aqui](./utils/Machine%20Learning%20Canvas.pdf).
 
 ## Tecnologias
 
