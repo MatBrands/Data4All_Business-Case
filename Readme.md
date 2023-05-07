@@ -45,6 +45,7 @@ A produção de uma empresa de aço envolve a fabricação de vários tipos de c
 - Organização do projeto
 - Commits
 - Conclusão
+- Agredecimentos
 - License
 
 ## Machine Learning Canvas
@@ -171,6 +172,7 @@ deactivate
     ├── Tratamento dos Dados.pdf
     ├── Análise Exploratória de Dados.pdf
     ├── Modelagem de ML.pdf
+    ├── Avaliação.pdf
     ├── environment.yml
     └── requirements.txt
 ```
@@ -193,6 +195,10 @@ O projeto foi dividido em algumas etapas, sendo elas:
 - [Tratamento dos Dados](./utils/Tratamento%20dos%20Dados.pdf)
 - [Análise Exploratória de Dados](./utils/Análise%20Exploratória%20de%20Dados.pdf)
 - [Modelagem de ML](./utils/Modelagem%20de%20ML.pdf)
+- [Avaliação](./utils/Avaliação.pdf)
+
+## Agradecimentos
+Gostaria de agradecer a Gerdau e Randstad, que me deram a oportunidade de participar do programa de formação de cientistas de dados. Ao time de Data & Analytics da Gerdau pela oportunidade de participar desse case. E por último aos excelentes excelentes profissionais da Ada, que me ajudaram a evoluir como cientista de dados.
 
 ## License
 MIT.
