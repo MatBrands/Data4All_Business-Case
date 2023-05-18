@@ -4,8 +4,6 @@
 - Projeto: Business Case
 - Empresa(s): Gerdau & Randstad
 
-O escopo do Notebook Base pode ser encontrado aqui: [Desafio Ciencia de Dados Gerdau.ipynb](./main/notebooks/Desafio_Ciencia_de_Dados_Gerdau.ipynb)
-
 <img src="./main/media/data_analytics.png" alt="drawing" width="200"/> 
 
 #### **Introdução**
