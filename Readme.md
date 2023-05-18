@@ -1,5 +1,4 @@
 # Data4All - Business Case
-
 - Instituição: Let's Code
 - Curso: Data4All
 - Projeto: Business Case
@@ -10,13 +9,11 @@ O escopo do Notebook Base pode ser encontrado aqui: [Desafio Ciencia de Dados Ge
 <img src="./main/media/data_analytics.png" alt="drawing" width="200"/> 
 
 #### **Introdução**
-
 O time de Data Science da Gerdau usa Inteligência Artificial e Advanced Analytics para resolver problemas diversos dentro da nossa empresa. Nesse desafio você terá contato com algumas das tarefas diárias de um Cientista de Dados do time e como ele avaliaremos, como suas competências estão conectadas com nossos pilares técnicos e do negócio.
 
 Guiaremos você ao longo do problema, e sua senioridade, de acordo com nossos padrões e pilares, será definida pela maneira como você resolverá cada item.
 
 #### **O que você deve levar em consideração**
-
 * Descrever a abordagem utilizada na resolução do desafio
 * Trechos de códigos deverão ter comentários essenciais
 * O desafio deverá ser feito com a linguagem de programação Python + bibliotecas que você achar necessário
@@ -24,17 +21,14 @@ Guiaremos você ao longo do problema, e sua senioridade, de acordo com nossos pa
 * Recomendamos utilizar Jupyter Lab ou Notebook. 
 
 #### **Prazo de entrega**
-
 * De acordo conforme combinado com o time de Data & Analytics
 
 #### **Desclassificação Automática**
-
 * Entregar fora do prazo
 * Compartilhar sua solução com outras pessoas
 * Compartilhar sua solução em repositórios públicos. Exemplo: GitHub
 
 #### **Objetivo**
-
 A produção de uma empresa de aço envolve a fabricação de vários tipos de componentes, incluindo bobinas e placas. As informações sobre o consumo de energia são registradas em um sistema de armazenamento em nuvem. O monitoramento do consumo energético desta indústria está disponível nos dados fornecidos. Desta forma, **gostariamos que você preveja o consumo elétrico em uma perspectiva mensal**.
 
 ## Conteúdo
@@ -69,7 +63,7 @@ O machine learning canvas construído ao longo do projeto pode ser encontrado [a
 - Keras
 
 ## Base de dados
-Neste projeto iremos analisar um dataset em formato de csv disponibilizado pelo time de Data & Analytics da Gerdau. Seus metadados estão dispostos da seguinte maneira:
+Neste projeto iremos analisar um dataset fictício em formato de csv. Seus metadados estão dispostos da seguinte maneira:
 
 Temos acesso aos dados de consumo elétrico da empresa, referentes a um período de 1 ano, sendo que a medição é realizada em intervalos de 15 minutos.
 | Nome          | Description.                                         | Tipo Variável | 
