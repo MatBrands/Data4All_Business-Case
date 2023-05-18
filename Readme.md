@@ -2,7 +2,6 @@
 - Instituição: Let's Code
 - Curso: Data4All
 - Projeto: Business Case
-- Empresa(s): Gerdau & Randstad
 
 <img src="./main/media/data_analytics.png" alt="drawing" width="200"/> 
 
